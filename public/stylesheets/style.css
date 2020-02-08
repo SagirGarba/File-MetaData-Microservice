@@ -1,0 +1,24 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  padding: 50px;
+}
+
+p {
+    font-size: 18px;
+    max-width: 700px;
+}
+
+.upload-form {
+    background-color: black;
+  color: white;
+    text-align: center;
+}
+
+code {
+    background-color: #ececec;
+    font-size: 14px;
+}
+
+a {
+  color: #000;
+}
