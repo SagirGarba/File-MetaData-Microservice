@@ -2,7 +2,7 @@
 A simple practice app powered with expressjs for freecodecamp.com backend developement courses.
 
 ## View the app
-you can view the app on https://gentle-eyrie-95822.herokuapp.com/
+you can view the app on https://detailed-end-t2fhxpb4a9.glitch.me/
 
 ## Purpose
 
@@ -14,7 +14,7 @@ You can upload a file in a form and the it will return a JSON with the file size
 
 ## Installation
 ####Clone the repo
-`git clone https://github.com/tuxitop/file-size-api.git`
+`git clone https://github.com/SagirGarba/File-MetaData-Microservice.git`
 
 `cd file-size-api`
 ####Install the dependecies
